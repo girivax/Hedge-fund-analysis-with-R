@@ -53,6 +53,9 @@ For detailed results and visualizations, please refer to the generated plots and
 - Implement Monte Carlo simulations for more robust VaR estimations
 - Incorporate machine learning models for return predictions
 - Expand the factor model to include more asset classes
+- git add README.md
+git commit -m "Update README with image references"
+git push origin main
 
 ## Author
 
