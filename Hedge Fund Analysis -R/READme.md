@@ -56,7 +56,7 @@ For detailed results and visualizations, please refer to the generated plots and
 
 ## Author
 
-[Your Name]
+[Girish MS]
 
 ## License
 
