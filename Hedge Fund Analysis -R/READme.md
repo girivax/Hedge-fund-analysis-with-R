@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Financial data sourced from [mention your data source]
+- Financial data sourced from [Claude 3.5 Sonnet for Hypothetical simulation]
 - Inspired by real-world hedge fund analysis techniques
